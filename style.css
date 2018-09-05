@@ -1,0 +1,11 @@
+body {color:black;background-color:#ffffff;font-family:Trebuchet MS}
+a {text-decoration:none;color:black}
+#calosc {width:800px;margin:auto}
+#kontener {width:auto;margin-bottom:20px}
+#przycisk {border-left:1px-solid white;border-right:1px solid white;background-color:#0FA3FF;width:198px;float:left;margin:1px 0px 0px 0px;text-align:center}
+#przycisk:hover {background-color:#69C5FF}
+#przycisk2 {border-left:1px-solid white;border-right:1px solid white;background-color:#2BFF0F;width:198px;float:left;margin:1px 0px 0px 0px;text-align:center}
+#przycisk2:hover {background-color:#7AFF69}
+#nieprzycisk {border-left:1px-solid white;border-right:1px solid white;width:198px;float:left;margin:1px 0px 0px 0px;text-align:center}
+table,tr,td{border:1px solid black;border-collapse:collapse}
+#tytul {background-color:#007ECC;color:white}
