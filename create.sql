@@ -541,4 +541,4 @@ DELIMITER ;
 
 -- Stworzenie konta Admina
 INSERT INTO uzytkownik values(0,'Admin',curdate(),'Administrator',curdate());
-INSERT INTO haslo values(0,password(concat('lipathor','zucc')));
+INSERT INTO haslo values(0,password(concat(<<<ENTER ADMIN PASSWORD HERE>>>,'zucc')));
